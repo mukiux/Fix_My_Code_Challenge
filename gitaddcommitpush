@@ -1,0 +1,2 @@
+#!/bin/bash
+ls . | git add . | git commit -m 'Fix_My_Code_Challenge' | git push
